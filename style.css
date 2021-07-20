@@ -274,18 +274,22 @@ textarea{
 
 
 .randomcode input{
-    margin-top: 10px;
-    margin-left: 380px;
-    width: 150px;
+    margin-top: 50px;
+    margin-left: 320px;
+    width: 8em;
 }
 
 #codes{
     display: inline;
-    margin-left: -50px;
+    width: 8em;
+    font-size: 1,2em;
+    background-color: rgb(189, 189, 189);
+    color: #000;
+    border: none;
 }
 
 form .button input{
-    margin-left: 550px;
+    margin-left: 530px;
     margin-top: 50px;
     width:8em;
     height: 2.5em;
@@ -293,6 +297,7 @@ form .button input{
     font-weight: bold;
     color: #fff;
     border: none;
+    /*background-color: #4977d1;*/
 }
 
 
